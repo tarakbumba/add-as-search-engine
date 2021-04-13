@@ -10,4 +10,4 @@ All of code and files here are licensed under General Public License (GPL) versi
 Simply download the contents of the repository and pack the contents (sans git data) into a .zip file. Then, rename the file to .xpi and drag into the browser.
 
 ## Download
-You can grab the latest release from the [Github Releases Page](https://github.com/tarakbumba/add-as-search-engine/releases).
+You can grab the latest release from the [Github Releases Page](https://github.com/tarakbumba/add-as-search-engine-for-palemoon/releases).
