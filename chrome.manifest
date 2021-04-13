@@ -1,0 +1,17 @@
+content addtosearchbox jar:addtosearchbox.jar!/content/
+skin addtosearchbox classic/1.0 jar:addtosearchbox.jar!/skin/classic/
+locale addtosearchbox da jar:addtosearchbox.jar!/locale/da/
+locale addtosearchbox de jar:addtosearchbox.jar!/locale/de/
+locale addtosearchbox el-GR jar:addtosearchbox.jar!/locale/el-GR/
+locale addtosearchbox en-US jar:addtosearchbox.jar!/locale/en-US/
+locale addtosearchbox es jar:addtosearchbox.jar!/locale/es/
+locale addtosearchbox fr jar:addtosearchbox.jar!/locale/fr/
+locale addtosearchbox hu jar:addtosearchbox.jar!/locale/hu/
+locale addtosearchbox it jar:addtosearchbox.jar!/locale/it/
+locale addtosearchbox ja jar:addtosearchbox.jar!/locale/ja/
+locale addtosearchbox ko jar:addtosearchbox.jar!/locale/ko/
+locale addtosearchbox nb-NO jar:addtosearchbox.jar!/locale/nb-NO/
+locale addtosearchbox pt-PT jar:addtosearchbox.jar!/locale/pt-PT/
+locale addtosearchbox ru jar:addtosearchbox.jar!/locale/ru/
+locale addtosearchbox tr jar:addtosearchbox.jar!/locale/tr/
+locale addtosearchbox zh-TW jar:addtosearchbox.jar!/locale/zh-TW/
